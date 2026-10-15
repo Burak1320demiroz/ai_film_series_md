@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.jpg" alt="AI Film & Series Studio Logo" width="280" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</p>
+
 # AI FILM & SERIES MD (ai_film_series_md) — AI Film & Dizi Yapım Deposu
 
 Bu depo, yapay zekâ araçları (GPT Image, Google Veo, Gemini Omni 1.1 Flash, ElevenLabs) kullanılarak üretilen sinematik kısa filmler, dikey drama dizileri ve video kurgu pipeline'larının eksiksiz senaryo, prompt, referans ve kalite kontrol dokümantasyonunu içerir.
@@ -96,3 +100,16 @@ flowchart LR
 - **Metin Sadakati:** Kaynak sohbet dökümleri özetlenmeden, eksiltilmeden aktarılmıştır.
 - **Tek Tıkla Kopyalama:** Tüm promptlar ` ```text ` blokları içindedir.
 - **Doğrulama:** Her proje dizininde satır aralıklarını gösteren bir `.manifest.tsv` dosyası yer alır.
+
+---
+
+## 🎨 Repo Logosu ve Tasarım Promptu
+
+Bu depoya özel tasarlanan amblem; klasik sinema film şeridi, anamorfik kamera merceği ve yapay zekâ nöral düğümlerinin (soğuk cyan ve kehribar ışık kontrastı) birleşimini temsil eder.
+
+### Logo Üretim Promptu (GPT Image / Midjourney / Flux)
+
+```text
+Professional cinematic studio logo for 'AI Film & Series'. A minimalist, ultra-premium emblem featuring a glowing anamorphic camera lens and vertical film frame fused with subtle glowing AI neural nodes and light rays. Sleek obsidian dark background, cold cyan-blue and warm amber cinematic lighting accents, polished metallic titanium and frosted glass textures. Symmetrical vector-like emblem, 8k resolution, modern luxury branding, tech cinema aesthetic, center-aligned, clean icon design, crisp high-end studio insignia.
+```
+
