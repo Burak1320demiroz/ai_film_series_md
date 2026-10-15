@@ -2,6 +2,12 @@
   <img src="./assets/logo.jpg" alt="AI Film & Series Studio Logo" width="280" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License: CC BY 4.0"></a>
+  <img src="https://img.shields.io/badge/Format-9:16_%26_16:9-blue.svg" alt="Format">
+  <img src="https://img.shields.io/badge/AI_Engine-Omni_1.1_%7C_Veo_%7C_GPT_Image-orange.svg" alt="AI Engines">
+</p>
+
 # AI FILM & SERIES MD (ai_film_series_md) — AI Film & Dizi Yapım Deposu
 
 Bu depo, yapay zekâ araçları (GPT Image, Google Veo, Gemini Omni 1.1 Flash, ElevenLabs) kullanılarak üretilen sinematik kısa filmler, dikey drama dizileri ve video kurgu pipeline'larının eksiksiz senaryo, prompt, referans ve kalite kontrol dokümantasyonunu içerir.
@@ -112,4 +118,15 @@ Bu depoya özel tasarlanan amblem; klasik sinema film şeridi, anamorfik kamera 
 ```text
 Professional cinematic studio logo for 'AI Film & Series'. A minimalist, ultra-premium emblem featuring a glowing anamorphic camera lens and vertical film frame fused with subtle glowing AI neural nodes and light rays. Sleek obsidian dark background, cold cyan-blue and warm amber cinematic lighting accents, polished metallic titanium and frosted glass textures. Symmetrical vector-like emblem, 8k resolution, modern luxury branding, tech cinema aesthetic, center-aligned, clean icon design, crisp high-end studio insignia.
 ```
+
+---
+
+## 📄 Lisans
+
+Bu depodaki tüm senaryolar, prompt paketleri, kurgu tabloları ve yapım dokümantasyonu **[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)** lisansı ile korunmaktadır.
+
+- **Paylaşım Serbestisi:** Materyali dilediğiniz mecrada veya formatta kopyalayabilir, dağıtabilir ve çoğaltabilirsiniz.
+- **Uyarlama ve Geliştirme:** Ticari projeler ve yapımlar dahil olmak üzere promptları remiksleyebilir, değiştirebilir ve üzerine yeni içerikler inşa edebilirsiniz.
+- **Atıf Kuralı:** Çalışmaları kullandığınızda veya paylaştığınızda kaynak belirterek (**Burak Demiroz / ai_film_series_md**) uygun atıfta bulunmalı ve lisans bağlantısını belirtmelisiniz.
+
 
